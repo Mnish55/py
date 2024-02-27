@@ -1,0 +1,7 @@
+setup.py
+manish_calculator/__init__.py
+manish_calculator/main.py
+manish_calculator.egg-info/PKG-INFO
+manish_calculator.egg-info/SOURCES.txt
+manish_calculator.egg-info/dependency_links.txt
+manish_calculator.egg-info/top_level.txt
